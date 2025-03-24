@@ -76,7 +76,7 @@ $bodega_id = isset($_GET['bodega_id']) ? $_GET['bodega_id'] : 0;
         </div>
         <div class="form-group full-width">
           <label for="descripcion">Descripción</label>
-          <textarea id="descripcion" rows="4"> </textarea>
+          <textarea id="descripcion" rows="4"></textarea>
         </div>
       </div>
       <div class="button-container">
